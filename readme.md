@@ -1,1 +1,2 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=FarukKuz.FarukKuz)
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=fbkeskin)
